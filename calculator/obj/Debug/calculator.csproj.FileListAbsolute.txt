@@ -1,0 +1,22 @@
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator\calculator\obj\Debug\calculator.calculatorform.resources
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\bin\Debug\calculator.exe.config
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\bin\Debug\calculator.exe
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\bin\Debug\calculator.pdb
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.calculatorform.resources
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.exe
+C:\Users\MONSTER\Desktop\c# form application netframework\calculator 2\calculator\obj\Debug\calculator.pdb
